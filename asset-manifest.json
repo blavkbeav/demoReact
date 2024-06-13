@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/demoReact/static/js/main.eee4d0ea.js",
+    "main.js": "/demoReact/static/js/main.42caaba3.js",
     "index.html": "/demoReact/index.html",
-    "main.eee4d0ea.js.map": "/demoReact/static/js/main.eee4d0ea.js.map"
+    "main.42caaba3.js.map": "/demoReact/static/js/main.42caaba3.js.map"
   },
   "entrypoints": [
-    "static/js/main.eee4d0ea.js"
+    "static/js/main.42caaba3.js"
   ]
 }
